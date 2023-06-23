@@ -70,7 +70,7 @@ spec:
                     default: true
                     type: boolean
                   enableOauth:
-                    default: true
+                    default: false
                     type: boolean
                   enableSamplePipeline:
                     default: true
